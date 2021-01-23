@@ -165,7 +165,7 @@ section p {
 }
 @media (max-width: 800px) {
     .banner-area {
-        min-height: 600px;
+        min-height: 650px;
     }
     .banner-area h1 {
         font-size: 22px;
