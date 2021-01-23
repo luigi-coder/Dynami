@@ -78,7 +78,7 @@ header nav li :last-child {
 .flex {
     display: flex;
     flex-direction: row;
-    margin-bottom: 28px;
+    margin-bottom: 30px;
 }
 @media (max-width:414px) {
     .flex {
